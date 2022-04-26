@@ -1,5 +1,10 @@
 ## SCM_RIGHTS
 
+使用sendmsg + SCM_RIGHTS实现跨进程 dup(fd)
+
+https://blog.cloudflare.com/know-your-scm_rights 
+
+
 ### This is a sample code for my Cloudflare blogpost about SCM_RIGHTS
 
 Instructions:
