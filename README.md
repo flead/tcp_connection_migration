@@ -17,5 +17,8 @@ Test using `echo passwhatever | nc localhost 8001` to get response from the seco
 ## Nginx Envoy MOSN热升级对比
 https://ms2008.github.io/2019/12/28/hot-upgrade/
 
+https://mosn.io/docs/concept/smooth-upgrade/
+
+
 ## TCP连接迁移示例
 https://zhuanlan.zhihu.com/p/97340154
